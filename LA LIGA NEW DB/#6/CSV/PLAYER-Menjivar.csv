@@ -1,0 +1,421 @@
+playerID,playerName,playerContract,playerDateofBirth,playerHeight(inches),playerJerseyNumber,playerNation,playerPosition
+P001,Cristiano Ronaldo,No,1985-02-05,73,7,Portugal,Forward
+P002,Gareth Bale,No,1989-07-16,72,11,Wales,Midfielder
+P003,Toni Kroos,No,1989-07-17,72,8,Germany,Midfielder
+P004,Karim Benzema,No,1989-07-18,74,9,France,Forward
+P005,Luka Modric,No,1989-07-19,69,19,Croatia,Midfielder
+P006,James Rodriguez,No,1989-07-20,71,10,Columbia,Midfielder
+P007,Sergio Ramos,No,1989-07-21,72,4,Spain,Defender
+P008,Isco,No,1989-07-22,69,23,Spain,Midfielder
+P009,Sami Khedira,No,1989-07-23,74,6,Spain,Midfielder
+P010,Marcelo,No,1989-07-24,69,12,Brazil,Defender
+P011,Javier Hernandez,Yes,1989-07-25,69,14,Spain,Forward
+P012,Raphael Varane,No,1989-07-26,75,2,France,Defender
+P013,Pepe,No,1989-07-27,74,3,Portugal,Defender
+P014,Keylor Navas,No,1989-07-28,73,13,Costa Rica,Goalkeeper
+P015,Iker Casillas,No,1989-07-29,73,1,Spain,Goalkeeper
+P016,Aiser Illarramendi,No,1989-07-30,70,24,Spain,Midfielder
+P017,Dani Carvajal,No,1989-07-31,68,15,Spain,Defender
+P018,Jese Rodriguez,No,1989-08-01,70,20,Spain,Forward
+P019,Fabio Coentrao,No,1989-08-02,70,5,Portugal,Defender
+P020,Nacho,No,1989-08-03,70,18,Spain,Defender
+P021,Arvalo Arbeloa,No,1989-08-04,72,17,Spain,Defender
+P022,Lionel Messi,No,1989-08-05,67,10,Argentina,Forward
+P023,Luis Suarez,No,1989-08-06,71,9,Uruguay,Forward
+P024,Xavi,No,1989-08-07,67,6,Spain,Midfielder
+P025,Neymar,No,1989-08-08,69,11,Brazil,Forward
+P026,Andres Iniesta,No,1989-08-09,67,8,Spain,Midfielder
+P027,Daniel Alves,No,1989-08-10,68,22,Brazil,Defender
+P028,Ivan Rakitic,No,1989-08-11,72,4,Croatia,Midfielder
+P029,Javier Mascherano,No,1989-08-12,69,14,Argentina,Defender
+P030,Gerard Pique,No,1989-08-13,76,3,Spain,Defender
+P031,Sergio Busquets,No,1989-08-14,74,5,Spain,Midfielder
+P032,Jordi Alba,No,1989-08-15,67,18,Spain,Defender
+P033,Pedro,No,1989-08-16,67,7,Spain,Midfielder
+P034,Adriano,No,1989-08-17,68,21,Brazil,Defender
+P035,Marc-Andre ter Stegen,No,1989-08-18,74,1,Germany,Goalkeeper
+P036,Claudio Bravo,No,1989-08-19,72,13,Chile,Goalkeeper
+P037,Thomas Vermaelen,No,1989-08-20,72,23,Belgium,Defender
+P038,Jeremy Mathieu,No,1989-08-21,76,24,France,Defender
+P039,Sergi Roberto,No,1989-08-22,70,20,Spain,Midfielder
+P040,Marc Batra,No,1989-08-23,72,15,Spain,Defender
+P041,Martin Montoya,No,1989-08-24,69,2,Spain,Goalkeeper
+P042,Munir,No,1989-08-25,69,29,Spain,Forward
+P043,Julian Cuesta,No,1989-08-26,77,1,Spain,Goalkeeper
+P044,Michel Roca,No,1989-08-27,72,2,Brazil,Defender
+P045,Fran Velez,No,1989-08-28,70,3,Spain,Defender
+P046,Ximo Navarro,No,1989-08-29,70,4,Spain,Defender
+P047,Angel Trujillo,No,1989-08-30,70,5,Spain,Defender
+P048,Mauro dos Santos,No,1989-08-31,71,6,Argentina,Defender
+P049,Verza,No,1989-09-01,71,7,Spain,Midfielder
+P050,Wellington Silva,Yes,1989-09-02,68,8,Brazil,Midfielder
+P051,Thievy,Yes,1989-09-03,71,9,France,Forward
+P052,Tomer Hemed,No,1989-09-04,72,10,Spain,Forward
+P053,Quique,No,1989-09-05,69,11,Spain,Forward
+P054,Corona,No,1989-09-06,69,15,Spain,Midfielder
+P055,Sebatian Dubarbier,No,1989-09-07,70,16,Argentina,Midfielder
+P056,Edgar Mendez,No,1989-09-08,74,17,Spain,Midfielder
+P057,Teerasil Dangda,Yes,1989-09-09,71,18,Spain,Forward
+P058,Jonathan Zongo,No,1989-09-10,72,19,Turkey,Midfielder
+P059,Mane,No,1989-09-11,69,21,Spain,Defender
+P060,Thomas,Yes,1989-09-12,72,22,Ghana,Midfielder
+P061,Fernando Soriano,No,1989-09-13,74,23,Spain,Midfielder
+P062,Ruben,No,1989-09-14,73,25,Spain,Goalkeeper
+P063,Ramon Azeez,No,1989-09-15,66,31,Nigeria,Midfielder
+P064,Miguel Angel Moya,No,1989-09-16,74,1,Spain,Goalkeeper
+P065,Diego Godin,No,1989-09-17,73,2,Argentina,Defender
+P066,Guilherme Siqueira,No,1989-09-18,72,3,Brazil,Defender
+P067,Mario Suarez,No,1989-09-19,74,4,Spain,Midfielder
+P068,Tiago Mendes,No,1989-09-20,72,5,Portugal,Midfielder
+P069,Koke,No,1989-09-21,70,6,Spain,Midfielder
+P070,Antoine Griezmann,No,1989-09-22,69,7,France,Midfielder
+P071,Raul Garcia,No,1989-09-23,72,8,Spain,Midfielder
+P072,Mario Mandzukic,No,1989-09-24,75,9,Yugoslavia,Forward
+P073,Arda Turan,No,1989-09-25,69,10,Turkey,Midfielder
+P074,Raul Jimenez,No,1989-09-26,75,11,Spain,Forward
+P075,Jan Oblak,No,1989-09-27,73,13,Slovenia,Goalkeeper
+P076,Gabi,No,1989-09-28,71,14,Spain,Midfielder
+P077,Cristian Ansaldi,No,1989-09-29,71,15,Argentina,Defender
+P078,Saul Niguez,No,1989-09-30,71,17,Spain,Midfielder
+P079,Jesus Gamez,No,1989-10-01,71,18,Spain,Defender
+P080,Angel Correa,No,1989-10-02,68,19,Argentina,Forward
+P081,Juanfran,No,1989-10-03,71,20,Spain,Defender
+P082,Cristian Rodriguez,No,1989-10-04,70,21,Uruguay,Midfielder
+P083,Alessio Cerci,No,1989-10-05,71,22,Italy,Midfielder
+P084,Miranda Jose Gimenez,No,1989-10-06,73,23,Brazil,Defender
+P085,Gorka Iraizoz,No,1989-10-07,73,1,Spain,Goalkeeper
+P086,Gaizka Toquero,No,1989-10-08,72,2,Spain,Defender
+P087,Jon Aurtenetxe,No,1989-10-09,72,3,Spain,Defender
+P088,Aymeric Laporte,No,1989-10-10,74,4,France,Defender
+P089,Erik Moran,No,1989-10-11,69,5,Spain,Defender
+P090,Mikel San Jose,No,1989-10-12,71,6,Columbia,Defender
+P091,Benat Etxebarria,No,1989-10-13,72,7,Spain,Midfielder
+P092,Ander Iturraspe,No,1989-10-14,69,8,Spain,Midfielder
+P093,Kike Sola,No,1989-10-15,74,9,Spain,Forward
+P094,Oscar de Marcos,No,1989-10-16,69,10,Brazil,Forward
+P095,Ibai Gomez,Yes,1989-10-17,69,11,Spain,Forward
+P096,Unai Bustinza,No,1989-10-18,75,15,France,Midfielder
+P097,Iago Herrerin,No,1989-10-19,74,16,Portugal,Midfielder
+P098,Markel Susaeta,No,1989-10-20,73,17,Spain,Midfielder
+P099,Andoni Iraola,No,1989-10-21,73,18,Spain,Forward
+P100,Xabier Etxeita,No,1989-10-22,70,19,Spain,Midfielder
+P101,Mikel Rico,No,1989-10-23,68,21,Spain,Defender
+P102,Carlos Gurpegi,No,1989-10-24,70,22,Spain,Midfielder
+P103,Iker Munian,No,1989-10-25,70,23,Spain,Midfielder
+P104,Artiz Aduriz,No,1989-10-26,70,25,Spain,Goalkeeper
+P105,Borja Viguera,No,1989-10-27,72,31,Spain,Midfielder
+P106,Juan Carlos,No,1989-10-28,67,1,Argentina,Goalkeeper
+P107,Aleksander Pantic,No,1989-10-29,71,2,Serbia,Defender
+P108,Jose Angel Crespo,No,1989-10-30,67,3,Spain,Defender
+P109,Iago Bouzon,No,1989-10-31,69,4,Brazil,Midfielder
+P110,Patrick Ekeng,No,1989-11-01,67,5,Spain,Midfielder
+P111,Luso,No,1989-11-02,68,6,Brazil,Midfielder
+P112,Fausto Rossi,No,1989-11-03,72,7,Spain,Midfielder
+P113,Xisco,No,1989-11-04,69,8,Argentina,Midfielder
+P114,Fede Cartabia,No,1989-11-05,76,9,Spain,Forward
+P115,Jose Carlos,No,1989-11-06,74,10,Spain,Midfielder
+P116,Inigo Lopez,No,1989-11-07,67,11,Spain,Forward
+P117,Mikel Saizar,No,1989-11-08,67,13,Spain,Goalkeeper
+P118,Nabil Ghilas,No,1989-11-09,68,14,Brazil,Midfielder
+P119,Deivid,No,1989-11-10,74,15,Spain,Defender
+P120,Fidel,No,1989-11-11,72,17,Chile,Midfielder
+P121,Adrian Gunino,No,1989-11-12,72,18,Spain,Defender
+P122,Borga Garcia,No,1989-11-13,76,19,France,Forward
+P123,Lopez Silva,No,1989-11-14,70,20,Spain,Defender
+P124,Ryder Matos,No,1989-11-15,72,21,Spain,Midfielder
+P125,Carlos Caballero,No,1989-11-16,69,22,Spain,Midfielder
+P126,Artiz Lopez Garai,No,1989-11-17,69,23,Spain,Defender
+P127,Sergio Alvarez,No,1989-11-18,77,1,Spain,Goalkeeper
+P128,Hugp Mallo,No,1989-11-19,72,2,Brazil,Defender
+P129,Andreu Fontas,No,1989-11-20,70,3,Spain,Defender
+P130,Borja Oubina,No,1989-11-21,70,4,Spain,Defender
+P131,Pablo Hernandez,No,1989-11-22,70,5,Spain,Defender
+P132,Nemanja Radoja,No,1989-11-23,71,6,Argentina,Defender
+P133,Santi Mina,No,1989-11-24,71,7,Spain,Midfielder
+P134,Alex Lopez,Yes,1989-11-25,68,8,Brazil,Midfielder
+P135,Charles,Yes,1989-11-26,71,9,France,Forward
+P136,Nolito,No,1989-11-27,72,10,Spain,Forward
+P137,Joaquin Larrivey,No,1989-11-28,69,11,Spain,Forward
+P138,Ruben Blanco,No,1989-11-29,69,15,Spain,Midfielder
+P139,Fabian Orellana,No,1989-11-30,70,16,Argentina,Midfielder
+P140,David Costas,No,1989-12-01,74,17,Spain,Midfielder
+P141,Levy Madinda,Yes,1989-12-02,71,18,Spain,Forward
+P142,Jonny,No,1989-12-03,72,19,Spain,Midfielder
+P143,Sergi Gomez,No,1989-12-04,69,21,Spain,Defender
+P144,Charles Planas,Yes,1989-12-05,72,22,Ghana,Midfielder
+P145,Gustavo Cabral,No,1989-12-06,74,23,Spain,Midfielder
+P146,Michael Krohn -Dejli,No,1989-12-07,73,25,Denmark,Goalkeeper
+P147,Augusto Fernandez,No,1989-12-08,66,31,Argentina,Midfielder
+P148,German Parreno,No,1989-12-09,74,1,Spain,Goalkeeper
+P149,Felipe Mattioni,No,1989-12-10,73,2,Argentina,Defender
+P150,Raul Rodriguez,No,1989-12-11,72,3,Brazil,Defender
+P151,Victor Sanchez,No,1989-12-12,74,4,Spain,Midfielder
+P152,Victor Alvarez,No,1989-12-13,72,5,Portugal,Midfielder
+P153,Salva Sevilla,No,1989-12-14,70,6,Spain,Midfielder
+P154,Alex Fernandez,No,1989-12-15,69,7,Spain,Midfielder
+P155,Chritian Stuani,No,1989-12-16,72,8,France,Midfielder
+P156,Sergio Garcia,No,1989-12-17,75,9,Spain,Forward
+P157,Abraham Gonzalez,No,1989-12-18,69,10,Spain,Midfielder
+P158,Manuel Lanzarote,No,1989-12-19,75,11,Spain,Forward
+P159,Carlos Clerc,No,1989-12-20,73,13,Spain,Goalkeeper
+P160,Kiko Casilla,No,1989-12-21,71,14,Spain,Midfielder
+P161,Jose Canas,No,1989-12-22,71,15,Spain,Defender
+P162,Hector Moreno,No,1989-12-23,71,17,Mexico,Midfielder
+P163,javi Lopez,No,1989-12-24,71,18,Spain,Defender
+P164,Lucas Vazquez,No,1989-12-25,68,19,Argentina,Forward
+P165,Juan Fuentes,No,1989-12-26,71,20,Spain,Defender
+P166,Diego Colotto,No,1989-12-27,70,21,Uruguay,Midfielder
+P167,Felipe Caicedo,No,1989-12-28,71,22,Ecuador,Midfielder
+P168,Alvaro Gonzalez,No,1989-12-29,73,23,Spain,Defender
+P169,Jonathan Lopez,No,1989-12-30,73,1,Spain,Goalkeeper
+P170,Alexis,No,1989-12-31,72,2,Spain,Defender
+P171,Roberto Lago,No,1990-01-01,72,3,Spain,Defender
+P172,Emiliano Velazquez,No,1990-01-02,74,4,Uruguay,Defender
+P173,Naldo,No,1990-01-03,69,5,Brazil,Defender
+P174,Sammir,No,1990-01-04,71,6,Croatia,Defender
+P175,Angel Lafita,No,1990-01-05,72,7,Spain,Midfielder
+P176,Medhi Lacen,No,1990-01-06,69,8,Spain,Midfielder
+P177,Alvaro Vazquez,No,1990-01-07,74,9,Spain,Forward
+P178,Pablo Sarabia,No,1990-01-08,69,10,Spain,Forward
+P179,Karim Yoda,Yes,1990-01-09,69,11,Spain,Forward
+P180,Alvaro Arroyo,No,1990-01-10,75,15,France,Midfielder
+P181,Jordi Codina,No,1990-01-11,74,16,Portugal,Midfielder
+P182,Pedro Leon,No,1990-01-12,73,17,Costa Rica,Midfielder
+P183,Baba Diawara,No,1990-01-13,73,18,Spain,Forward
+P184,Diego Castro,No,1990-01-14,70,19,Spain,Midfielder
+P185,Sergio Escudero,No,1990-01-15,68,21,Spain,Defender
+P186,Juan Valera,No,1990-01-16,70,22,Spain,Midfielder
+P187,Michel Herrero,No,1990-01-17,70,23,Spain,Midfielder
+P188,Juan Rodriguez,No,1990-01-18,70,25,Spain,Goalkeeper
+P189,Fredy Hinestroza,No,1990-01-19,72,31,Spain,Midfielder
+P190,Oier Olazabal,No,1990-01-20,67,1,Spain,Goalkeeper
+P191,Allan Nyom,No,1990-01-21,71,2,Spain,Defender
+P192,Luis Martins,No,1990-01-22,67,3,Spain,Defender
+P193,Fran Rico,No,1990-01-23,69,4,Brazil,Midfielder
+P194,Deigo Mainz,No,1990-01-24,67,5,Spain,Midfielder
+P195,Jean-Sylvian Babi,No,1990-01-25,68,6,Brazil,Midfielder
+P196,Hector Yuste,No,1990-01-26,72,7,Croatia,Midfielder
+P197,Javi Marquez,No,1990-01-27,69,8,Argentina,Midfielder
+P198,Youssef El-Arabi,No,1990-01-28,76,9,Spain,Forward
+P199,Piti,No,1990-01-29,74,10,Spain,Midfielder
+P200,Riki,No,1990-01-30,67,11,Spain,Forward
+P201,Dany Nounkeu,No,1990-01-31,67,13,Spain,Goalkeeper
+P202,Roberto Lago,No,1990-02-01,68,14,Brazil,Midfielder
+P203,Eddy Silvestre,No,1990-02-02,74,15,Spain,Defender
+P204,Manuel Iturra,No,1990-02-03,72,17,Chile,Midfielder
+P205,Abdoul Sissoko,No,1990-02-04,72,18,Belgium,Defender
+P206,Jhon Cordoba,No,1990-02-05,76,19,France,Forward
+P207,Daniel Larsson,No,1990-02-06,70,20,Spain,Defender
+P208,Juan Carlos,No,1990-02-07,72,21,Spain,Midfielder
+P209,Alfredo Ortuno,No,1990-02-08,69,22,Spain,Midfielder
+P210,Dimitri Foulquier,No,1990-02-09,69,23,Spain,Defender
+P211,Jesus Fernandez,No,1990-02-10,77,1,Spain,Goalkeeper
+P212,Ivan Lopez,No,1990-02-11,72,2,Brazil,Defender
+P213,Tono,No,1990-02-12,70,3,Spain,Defender
+P214,David Navarro,No,1990-02-13,70,4,Spain,Defender
+P215,Hector Rodas,No,1990-02-14,70,5,Spain,Defender
+P216,Loukas Vyntra,No,1990-02-15,71,6,Argentina,Defender
+P217,David Barral,No,1990-02-16,71,7,Spain,Midfielder
+P218,Nabil El Zhar,Yes,1990-02-17,68,8,Brazil,Midfielder
+P219,Rafael Martins,Yes,1990-02-18,71,9,France,Forward
+P220,Ruben Garcia,No,1990-02-19,72,10,Spain,Forward
+P221,Jose Luis Morales,No,1990-02-20,69,11,Spain,Forward
+P222,Juanfarn,No,1990-02-21,69,15,Spain,Midfielder
+P223,Diego Marino,No,1990-02-22,70,16,Argentina,Midfielder
+P224,Jaime Gavilan,No,1990-02-23,74,17,Spain,Midfielder
+P225,Nikos Karabelas,Yes,1990-02-24,71,18,Spain,Forward
+P226,Issan el Adou,No,1990-02-25,72,19,Spain,Midfielder
+P227,Jordi Xumetra,No,1990-02-26,69,21,Spain,Defender
+P228,Victor Casadesus,Yes,1990-02-27,72,22,Ghana,Midfielder
+P229,Pedro Lopez,No,1990-02-28,74,23,Spain,Midfielder
+P230,Victor Perez,No,1990-03-01,73,25,Spain,Goalkeeper
+P231,Andreas Ivanshitz,No,1990-03-02,66,31,Nigeria,Midfielder
+P232,Carlos Kameni,No,1990-03-03,74,1,Spain,Goalkeeper
+P233,Nordin Amrabat,No,1990-03-04,73,2,Argentina,Defender
+P234,Welington,No,1990-03-05,72,3,Brazil,Defender
+P235,Flavio Ferreira,No,1990-03-06,74,4,Spain,Midfielder
+P236,Vitorino Antunas,No,1990-03-07,72,5,Portugal,Midfielder
+P237,Ingacio Camacho,No,1990-03-08,70,6,Spain,Midfielder
+P238,Samu Garcia,No,1990-03-09,69,7,France,Midfielder
+P239,Francisco Portillo,No,1990-03-10,72,8,Spain,Midfielder
+P240,Roque Santa Cruz,No,1990-03-11,75,9,Yugoslavia,Forward
+P241,Ricardo Horta,No,1990-03-12,69,10,Turkey,Midfielder
+P242,Pablo Perez,No,1990-03-13,75,11,Spain,Forward
+P243,Fernando Tissone,No,1990-03-14,73,13,Slovenia,Goalkeeper
+P244,Guillermo Ochoa,No,1990-03-15,71,14,Mexico,Midfielder
+P245,Recio,No,1990-03-16,71,15,Argentina,Defender
+P246,Marcos Angeleri,No,1990-03-17,71,17,Spain,Midfielder
+P247,Ezequil Rescaldani,No,1990-03-18,71,18,Spain,Defender
+P248,Duda,No,1990-03-19,68,19,Argentina,Forward
+P249,Roberto Rosalez,No,1990-03-20,71,20,Spain,Defender
+P250,Arthur Boka,No,1990-03-21,70,21,Uruguay,Midfielder
+P251,Jose Manuel Casado,No,1990-03-22,71,22,Italy,Midfielder
+P252,Sergio Sanchez,No,1990-03-23,73,23,Brazil,Defender
+P253,Manu Herrera,No,1990-03-24,73,1,Portugal,Goalkeeper
+P254,Damian Suarez,No,1990-03-25,72,2,Spain,Defender
+P255,Enzo Roco,No,1990-03-26,72,3,Spain,Defender
+P256,David Lomban,No,1990-03-27,74,4,France,Defender
+P257,Domingo Cisma,No,1990-03-28,69,5,Croatia,Defender
+P258,Pedro Mosquera,No,1990-03-29,71,6,Columbia,Defender
+P259,Aaron Niguez,No,1990-03-30,72,7,Spain,Midfielder
+P260,Adrian Gonzalez,No,1990-03-31,69,8,Spain,Midfielder
+P261,Cristian Herrera,No,1990-04-01,74,9,Spain,Forward
+P262,Coro,No,1990-04-02,69,10,Brazil,Forward
+P263,Garry Rodriguez,Yes,1990-04-03,69,11,Spain,Forward
+P264,Jose Angel Alonso,No,1990-04-04,75,15,France,Midfielder
+P265,Victor Rodriguez,No,1990-04-05,74,16,Portugal,Midfielder
+P266,Sergio Pelegrin,No,1990-04-06,73,17,Costa Rica,Midfielder
+P267,Alvaro Gimenez,No,1990-04-07,73,18,Spain,Forward
+P268,Faycal Fajr,No,1990-04-08,70,19,Spain,Midfielder
+P269,Edu Albacar,No,1990-04-09,68,21,Spain,Defender
+P270,Jonathan,No,1990-04-10,70,22,Spain,Midfielder
+P271,Mario Pasalic,No,1990-04-11,70,23,Croatia,Midfielder
+P272,Przemyslaw Tyton,No,1990-04-12,70,25,Poland,Goalkeeper
+P273,Bady Mudingayi,No,1990-04-13,72,31,Spain,Midfielder
+P274,German Lux,No,1990-04-14,67,1,Argentina,Goalkeeper
+P275,Manuel Pablo,No,1990-04-15,71,2,Uruguay,Defender
+P276,Roberto Canella,No,1990-04-16,67,3,Spain,Defender
+P277,Alex Bergantinos,No,1990-04-17,69,4,Brazil,Midfielder
+P278,Pablo Insua,No,1990-04-18,67,5,Spain,Midfielder
+P279,Jose Rodriguez,No,1990-04-19,68,6,Brazil,Midfielder
+P280,Lucas Perez,No,1990-04-20,72,7,Croatia,Midfielder
+P281,Haris Medunjanin,No,1990-04-21,69,8,Argentina,Midfielder
+P282,Helder Postiga,No,1990-04-22,76,9,Spain,Forward
+P283,Juan Dominguez,No,1990-04-23,74,10,Spain,Midfielder
+P284,Juanfran,No,1990-04-24,67,11,Spain,Forward
+P285,Sidnei,No,1990-04-25,67,13,Spain,Goalkeeper
+P286,Fabricio Agosto,No,1990-04-26,68,14,Brazil,Midfielder
+P287,Isaan Cuanca,No,1990-04-27,74,15,Spain,Defender
+P288,Laure,No,1990-04-28,72,17,Chile,Midfielder
+P289,Luisinho,No,1990-04-29,72,18,Belgium,Defender
+P290,Diogo Salomao,No,1990-04-30,76,19,France,Forward
+P291,Toche,No,1990-05-01,70,20,Spain,Defender
+P292,Ivan Cavaleiro,No,1990-05-02,72,21,Spain,Midfielder
+P293,Cezary Wilk,No,1990-05-03,69,22,Spain,Midfielder
+P294,Diego Seoane,No,1990-05-04,69,23,Spain,Defender
+P295,David Cobeno,No,1990-05-05,77,1,Spain,Goalkeeper
+P296,Tito,No,1990-05-06,72,2,Brazil,Defender
+P297,Nacho,No,1990-05-07,70,3,Spain,Defender
+P298,Antonio Amaya,No,1990-05-08,70,4,Spain,Defender
+P299,Mohammed Fatau,No,1990-05-09,70,5,Spain,Defender
+P300,Lass Bangoura,No,1990-05-10,71,6,Argentina,Defender
+P301,Raul Baena,No,1990-05-11,71,7,Spain,Midfielder
+P302,Manucho,Yes,1990-05-12,68,8,Brazil,Midfielder
+P303,Roberto Trashorras,Yes,1990-05-13,71,9,France,Forward
+P304,Jonathan Peireira,No,1990-05-14,72,10,Spain,Forward
+P305,Gael Kakuta,No,1990-05-15,69,11,Spain,Forward
+P306,Cristian Alvarez,No,1990-05-16,69,15,Spain,Midfielder
+P307,Emiliano Insua,No,1990-05-17,70,16,Argentina,Midfielder
+P308,Abdoulaye Ba,No,1990-05-18,74,17,Spain,Midfielder
+P309,Javier Aquino,Yes,1990-05-19,71,18,Spain,Forward
+P310,Quini,No,1990-05-20,72,19,Turkey,Midfielder
+P311,Ze Castro,No,1990-05-21,69,21,Spain,Defender
+P312,Leo Baptistao,Yes,1990-05-22,72,22,Ghana,Midfielder
+P313,Jorge Morcillo,No,1990-05-23,74,23,Spain,Midfielder
+P314,Jozabed,No,1990-05-24,73,25,Spain,Goalkeeper
+P315,Lica,No,1990-05-25,66,31,Nigeria,Midfielder
+P316,Geronimo Rulli,No,1990-05-26,74,1,Spain,Goalkeeper
+P317,Carlos Martinez,No,1990-05-27,73,2,Argentina,Defender
+P318,Mikel Gonzalez,No,1990-05-28,72,3,Brazil,Defender
+P319,Gorka Elustondo,No,1990-05-29,74,4,Spain,Midfielder
+P320,Markel Bergara,No,1990-05-30,72,5,Portugal,Midfielder
+P321,Inigo Martinez,No,1990-05-31,70,6,Spain,Midfielder
+P322,Alfreo Finnbogason,No,1990-06-01,69,7,France,Midfielder
+P323,Esteban Granero,No,1990-06-02,72,8,Spain,Midfielder
+P324,Imanol Agirretxe,No,1990-06-03,75,9,Spain,Forward
+P325,Xabi prieto,No,1990-06-04,69,10,Spain,Midfielder
+P326,Carlos Vela,No,1990-06-05,75,11,Mexico,Forward
+P327,Enuat Zubikarai,No,1990-06-06,73,13,Spain,Goalkeeper
+P328,ruben Pardo,No,1990-06-07,71,14,Spain,Midfielder
+P329,Ion Ansotegi,No,1990-06-08,71,15,Spain,Defender
+P330,Sergio Canales,No,1990-06-09,71,17,Spain,Midfielder
+P331,David Zurutuza,No,1990-06-10,71,18,Spain,Defender
+P332,Chory Castro,No,1990-06-11,68,19,Spain,Forward
+P333,Yuri Berchiche,No,1990-06-12,71,20,Spain,Defender
+P334,Joseba Zaldua,No,1990-06-13,70,21,Uruguay,Midfielder
+P335,Dani Estrada,No,1990-06-14,71,22,Italy,Midfielder
+P336,Alberto de l Bella,No,1990-06-15,73,23,Brazil,Defender
+P337,Mariano Barbosa,No,1990-06-16,73,1,Portugal,Goalkeeper
+P338,Menoit Tremoulinas,No,1990-06-17,72,2,Spain,Defender
+P339,Fernando Navarro,No,1990-06-18,72,3,Spain,Defender
+P340,Grzegorz Krychowiak,No,1990-06-19,74,4,France,Defender
+P341,Diogo Figueiras,No,1990-06-20,69,5,Croatia,Defender
+P342,Daniel Carrico,No,1990-06-21,71,6,Columbia,Defender
+P343,Kevin Gameiro,No,1990-06-22,72,7,Spain,Midfielder
+P344,Sebastian Cristoforo,No,1990-06-23,69,8,Spain,Midfielder
+P345,Carlos Bacca,No,1990-06-24,74,9,Spain,Forward
+P346,Jose Antonio Reyes,No,1990-06-25,69,10,Brazil,Forward
+P347,Cicinho,Yes,1990-06-26,69,11,Spain,Forward
+P348,Vicente Iborra,No,1990-06-27,75,15,France,Midfielder
+P349,Beto,No,1990-06-28,74,16,Portugal,Midfielder
+P350,Iago Aspas,No,1990-06-29,73,17,Spain,Midfielder
+P351,Timothee Kolodziejczak,No,1990-06-30,73,18,Spain,Forward
+P352,Denis Suarez,No,1990-07-01,70,19,Spain,Midfielder
+P353,Gerard Deulofeu,No,1990-07-02,68,21,Spain,Defender
+P354,Ever Banega,No,1990-07-03,70,22,Argentina,Midfielder
+P355,Vitolo,No,1990-07-04,70,23,Spain,Midfielder
+P356,Nicolas Pareja,No,1990-07-05,70,25,Spain,Goalkeeper
+P357,Aleix Vidal,No,1990-07-06,72,31,Spain,Midfielder
+P358,Diego Alves,No,1990-07-07,67,1,Argentina,Goalkeeper
+P359,Joao Cancelo,No,1990-07-08,71,2,Uruguay,Defender
+P360,Ruben Vezo,No,1990-07-09,67,3,Spain,Defender
+P361,Felipe Augusto,No,1990-07-10,69,4,Brazil,Midfielder
+P362,Shkodran Mustafi,No,1990-07-11,67,5,Spain,Midfielder
+P363,Lucas Orban,No,1990-07-12,68,6,Brazil,Midfielder
+P364,Alvaro Negredo,No,1990-07-13,72,7,Croatia,Midfielder
+P365,Sofiane Feghouli,No,1990-07-14,69,8,Argentina,Midfielder
+P366,Paco Alcacer,No,1990-07-15,76,9,Spain,Forward
+P367,Dani Parejo,No,1990-07-16,74,10,Spain,Midfielder
+P368,Pablo Piatti,No,1990-07-17,67,11,Spain,Forward
+P369,Joao Pereira,No,1990-07-18,67,13,Spain,Goalkeeper
+P370,Yoel,No,1990-07-19,68,14,Brazil,Midfielder
+P371,Bruno Zuculini,No,1990-07-20,74,15,Spain,Defender
+P372,Rodrigo,No,1990-07-21,72,17,Chile,Midfielder
+P373,Javi Fuego,No,1990-07-22,72,18,Belgium,Defender
+P374,Antonio Barragan,No,1990-07-23,76,19,France,Forward
+P375,Rodrigo De Paul,No,1990-07-24,70,20,Spain,Defender
+P376,Andre Gomes,No,1990-07-25,72,21,Spain,Midfielder
+P377,Carles Gil,No,1990-07-26,69,22,Spain,Midfielder
+P378,Nicolas Otamendi,No,1990-07-27,69,23,Argentina,Defender
+P379,Xabi Irureta,No,1990-07-28,77,1,Spain,Goalkeeper
+P380,Eneko Boveda,No,1990-07-29,72,2,Spain,Defender
+P381,Txema Anibarro,No,1990-07-30,70,3,Spain,Defender
+P382,Borja Ekiza,No,1990-07-31,70,4,Spain,Defender
+P383,Raul Albentosa,No,1990-08-01,70,5,Spain,Defender
+P384,Ander capa,No,1990-08-02,71,6,Argentina,Defender
+P385,Jon Errasti,No,1990-08-03,71,7,Spain,Midfielder
+P386,Angel Rodriguez,Yes,1990-08-04,68,8,Brazil,Midfielder
+P387,Mikel Arruabarrena,Yes,1990-08-05,71,9,France,Forward
+P388,Dani Nieto,No,1990-08-06,72,10,Spain,Forward
+P389,Txusta,No,1990-08-07,69,11,Spain,Forward
+P390,Dani Garcia,No,1990-08-08,69,15,Spain,Midfielder
+P391,Dejan Lekic,No,1990-08-09,70,16,Argentina,Midfielder
+P392,Lillo,No,1990-08-10,74,17,Spain,Midfielder
+P393,Didac Vila,Yes,1990-08-11,71,18,Spain,Forward
+P394,Derek Boateng,No,1990-08-12,72,19,Ghana,Midfielder
+P395,Manu del Moral,No,1990-08-13,69,21,Spain,Defender
+P396,Saul Berjon,Yes,1990-08-14,72,22,Spain,Midfielder
+P397,Raul Navas,No,1990-08-15,74,23,Spain,Midfielder
+P398,Javier Lara,No,1990-08-16,73,25,Spain,Goalkeeper
+P399,Abraham Minero,No,1990-08-17,66,31,Nigeria,Midfielder
+P400,Sergio Asenjo,No,1990-08-18,74,1,Spain,Goalkeeper
+P401,Mario Gaspar,No,1990-08-19,73,2,Spain,Defender
+P402,Bojan Jokic,No,1990-08-20,72,3,Brazil,Defender
+P403,Tomas Pinta,No,1990-08-21,74,4,Spain,Midfielder
+P404,Mateo Musacchio,No,1990-08-22,72,5,Argentina,Midfielder
+P405,Jonathan do Santos,No,1990-08-23,70,6,Mexico,Midfielder
+P406,Luciano Vietto,No,1990-08-24,69,7,Argentina,Midfielder
+P407,Ikechuku Uche,No,1990-08-25,72,8,Nigeria,Midfielder
+P408,Giovani dos Santos,No,1990-08-26,75,9,Mexico,Forward
+P409,Cani,No,1990-08-27,69,10,Spain,Midfielder
+P410,Hernan Perez,No,1990-08-28,75,11,Paraguay,Forward
+P411,Manu Trigueros,No,1990-08-29,73,13,Spain,Goalkeeper
+P412,Victor Ruiz,No,1990-08-30,71,14,Spain,Midfielder
+P413,Chechu Dorado,No,1990-08-31,71,15,Spain,Defender
+P414,Denis Cheryshev,No,1990-09-01,71,17,Russia,Midfielder
+P415,Jaume Costa,No,1990-09-02,71,18,Spain,Defender
+P416,Moi Gomez,No,1990-09-03,68,19,Spain,Forward
+P417,Gabriel Paulista,No,1990-09-04,71,20,Brazil,Defender
+P418,Bruno Soriano,No,1990-09-05,70,21,Serbia,Midfielder
+P419,Antonio Rukavina,No,1990-09-06,71,22,Spain,Midfielder
+P420,Gerard Moreno,No,1990-09-07,73,23,Spain,Defender

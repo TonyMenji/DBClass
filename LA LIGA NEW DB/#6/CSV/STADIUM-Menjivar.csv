@@ -1,0 +1,21 @@
+stadiumID,stadiumName,stadiumClub,stadiumCity,stadiumCapacity
+S001,San Mames,Athletic Club,Bilbao,53332
+S002,Vicente Calderon,Atletico Madrid,Madrid,54907
+S003,Camp Nou,FC Barcelona,Barcelona,99786
+S004,Nuevo Arcangel,Cordoba CF,Cordoba,21822
+S005,Balaidos,Real Celta de Vigo,Vigo,31800
+S006,Estadios de los Juegos Mediterraneos,UD Almeria,Almeria,22000
+S007,Cornella-El Prat,RCD Espanyol,Barcelona,40500
+S008,Coliseum Alfonso Perez,Getafe CF,Getafe,17700
+S009,Nuevo Los Carmenes,Granada CF,Granada,22524
+S010,Ciutat de Valencia,Levante UD,Valencia,22534
+S011,La Rosaleda,Malaga CF,Malaga,30044
+S012,Martinez Malero,Elche CF,Elche,38750
+S013,Riazor,Deportivo La Coruna,A Coruna,34639
+S014,Campo de Vallecas,Rayo Vallecano,Madrid,14708
+S015,Santiago Bernabeu,Real Madrid,Madrid,81044
+S016,Anoeta,Real Sociedad,San Sebastian,32076
+S017,Ramon Sanchez Pizjuan,Sevilla,Seville,45500
+S018,Mestalla,Valencia CF,Valencia,55000
+S019,Ipurua,SD Eibar,Eibar,5910
+S020,El Madrigal,Villareal CF,Villareal,22000
